@@ -9,9 +9,9 @@
 #include <iostream>
 #include <memory>
 #include <string>
-#include "timer.h"
+#include "lib/include/timer.hpp"
 
-#include "Dictionary.h"
+#include "lib/src/Dictionary.hpp"
 
 // oje, global
 bool askAgain = false;
